@@ -1,0 +1,11 @@
+# Dean's Place SEO Configuration
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /*.json$
+
+# Sitemap
+Sitemap: https://deansplacelvg.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
