@@ -44,7 +44,7 @@ export default function Navigation({
     <>
       {/* --- DEMO NOTICE BAR --- */}
       <div className="fixed top-0 left-0 right-0 z-[60] bg-red-600 text-white text-sm sm:text-base font-medium px-4 py-2 text-center shadow-lg">
-        This is a demo website. Information shown is for preview only and will be updated after client approval.
+        This is a demo website. Information shown is for preview only and will be updated after client approval. If you are the own you can contact me at <a href="mailto:sudipsudip525@gmail.com" className="underline font-semibold">sudipsudip525@gmail.com</a>.
       </div>
 
       {/* --- MAIN NAVBAR --- */}
